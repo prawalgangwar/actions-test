@@ -1,6 +1,8 @@
 name: C/C++ CI
 
 on:
+  repository_dispatch:
+    types: run-code
   push:
     branches: [ master ]
   pull_request:
