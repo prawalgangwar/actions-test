@@ -7,5 +7,6 @@ int main() {
 	std::cout << "PR test 4 Hello World!" << std::endl;
 	std::cout << "PR test 5 Hello World!" << std::endl;	
 	std::cout << "PR test 6 Hello World!" << std::endl;	
+	std::cout << "PR patch 2 commit Hello World!" << std::endl;	
 	return 0;
 }
