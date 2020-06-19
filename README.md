@@ -12,3 +12,5 @@ Attempt 2 for the same - worked but didn't report correctly
 
 Attempt - 3 with deafult status
 
+
+with the new jenkins url 
