@@ -42,3 +42,5 @@ foo
 should build
 
 master
+
+PR 2
