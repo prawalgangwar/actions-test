@@ -58,3 +58,5 @@ all
 2
 
 github-webhook
+
+no ghprb
