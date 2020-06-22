@@ -50,5 +50,8 @@ master
 
 bar
 
-1
+1\
+
+
+all
 
