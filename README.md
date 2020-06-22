@@ -38,3 +38,5 @@ monday 3
 noghprb
 
 foo
+
+should build
